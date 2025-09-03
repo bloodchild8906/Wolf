@@ -2195,7 +2195,3 @@ ports:
 - **Test Server Setup:** Ensure test server is running and accessible.
 - **UI Mockups:** If you want visual mockups (e.g., calendar or event creation form), confirm explicitly.
 - **Expand:** Add multi-server support, advanced shop config merging, more tests.
-
----
-
-This markdown document provides the complete specification and scaffold in a format ready for PDF conversion. Save it as `spec.md` and use a tool like Typora or Pandoc to export to PDF. If you need a more concise version, specific formatting adjustments, or images for diagrams/wireframes, please let me know!
